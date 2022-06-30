@@ -48,7 +48,7 @@ docker run -p 8080:8080 -it external-adapter:latest
 
 | Required? |      Name       | Description |  Type  | Options |              Default               |
 | :-------: | :-------------: | :---------: | :----: | :-----: | :--------------------------------: |
-|    ❌    |     |    |      |     |         |         |            |                |
+|    ❎    |     |    |      |     |         |         |            |                |
 
 ---
 ### Input Params
