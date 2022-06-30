@@ -16,14 +16,6 @@ Install dependencies:
 yarn
 ```
 
-### Test
-
-Run the local tests:
-
-```bash
-yarn test
-```
-
 Natively run the application (defaults to port 8080):
 
 ### Run
